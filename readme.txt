@@ -4,7 +4,7 @@ Donate link: http://www.hofire.com/wordpress-plugins/hofire-post-order-plugins-w
 Tags: custom post order, post order, orderby menu_order
 Requires at least: 3.1
 Tested up to:
-Stable tag:
+Stable tag: 1.0
 
 The plugin enables administrator to modify the default order of posts or pages easily in the back-end.
 
