@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Hofire Post Order For Wordpress ===
 Contributors: Mike Zhang
 Donate link: http://www.hofire.com/wordpress-plugins/hofire-post-order-plugins-wordpress/
 Tags: custom post order, post order, orderby menu_order
