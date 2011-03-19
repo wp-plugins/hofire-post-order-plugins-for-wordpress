@@ -20,14 +20,14 @@ Hofire Post Order For Wordpress ([http://www.hofire.com](http://www.hofire.com))
 
 == Installation ==
 
-1. Download the hofire-post-order.zip file and unzip it to wp-content/plugins folder in your wordpress website;
+1. Download the [hofire-post-order.zip](http://www.hofire.com/wp-content/uploads/2011/03/hofire-post-order.zip) file and unzip it to wp-content/plugins folder in your wordpress website;
 1. Activate it through the plugin menu in wordpress back-end;
 1. View posts or pages page, change the order column value what you want and then click the save button behind the 'Order' text.
 1. Add '<?php query_posts('orderby=menu_order&order=ASC'); ?>' code after '<?php if ( have_posts() ) : ?>' on the post or page loop page in your template file.
 
 == Frequently Asked Questions ==
 
-Do you have questions or issues with Contact Form 7? Use these support channels appropriately.
+Do you have questions or issues with Hofire Post Order For Wordpress? Use these support channels appropriately.
 
 1. [Docs](http://www.hofire.com/wordpress-plugins/hofire-post-order-plugins-wordpress/)
 
