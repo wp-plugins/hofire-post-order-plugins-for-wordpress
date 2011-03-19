@@ -20,3 +20,7 @@ It is very useful when you want to custom your posts or plages order on the post
     * Activate it through the plugin menu in wordpress back-end;
     * View posts or pages page, change the order column value what you want and then click the save button behind the 'Order' text.
     * Add '<?php query_posts('orderby=menu_order&order=ASC'); ?>' code after '<?php if ( have_posts() ) : ?>' on the post or page loop page in your template file.
+
+== Screenshots ==
+
+1. `/tags/1.0/hofire-post-order-larg.gif`
