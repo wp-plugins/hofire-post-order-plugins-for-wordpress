@@ -16,19 +16,19 @@ It is very useful when you want to custom your posts or plages order on the post
 
 == Installation ==
 
-    * Download the hofire-post-order.zip file and unzip it to wp-content/plugins folder in your wordpress website;
-    * Activate it through the plugin menu in wordpress back-end;
-    * View posts or pages page, change the order column value what you want and then click the save button behind the 'Order' text.
-    * Add '<?php query_posts('orderby=menu_order&order=ASC'); ?>' code after '<?php if ( have_posts() ) : ?>' on the post or page loop page in your template file.
+    1. Download the hofire-post-order.zip file and unzip it to wp-content/plugins folder in your wordpress website;
+    2. Activate it through the plugin menu in wordpress back-end;
+    3. View posts or pages page, change the order column value what you want and then click the save button behind the 'Order' text.
+    4. Add '<?php query_posts('orderby=menu_order&order=ASC'); ?>' code after '<?php if ( have_posts() ) : ?>' on the post or page loop page in your template file.
 
 == Screenshots ==
 
-1. `/tags/1.0/hofire-post-order-larg.gif`
+1. '/tags/1.0/hofire-post-order-larg.gif'
 
 == Changelog ==
 
 = 1.0 =
-* Enables administrator to modify the default order of posts or pages.
+1. Enables administrator to modify the default order of posts or pages.
 
 == Upgrade Notice ==
 
