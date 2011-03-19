@@ -3,7 +3,7 @@ Contributors: Mike Zhang
 Donate link: http://www.hofire.com/wordpress-plugins/hofire-post-order-plugins-wordpress/
 Tags: custom post order, post order, orderby menu_order
 Requires at least: 3.1
-Tested up to:
+Tested up to: 1.0
 Stable tag: 1.0
 
 The plugin enables administrator to modify the default order of posts or pages easily in the back-end.
@@ -24,3 +24,13 @@ It is very useful when you want to custom your posts or plages order on the post
 == Screenshots ==
 
 1. `/tags/1.0/hofire-post-order-larg.gif`
+
+== Changelog ==
+
+= 1.0 =
+* Enables administrator to modify the default order of posts or pages.
+
+== Upgrade Notice ==
+
+= 1.0 =
+Upgrade readme.txt.
