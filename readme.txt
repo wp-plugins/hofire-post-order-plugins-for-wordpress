@@ -23,7 +23,7 @@ Hofire Post Order For Wordpress ([http://www.hofire.com](http://www.hofire.com))
 1. Download the [hofire-post-order.zip](http://www.hofire.com/wp-content/uploads/2011/03/hofire-post-order.zip) file and unzip it to wp-content/plugins folder in your wordpress website;
 1. Activate it through the plugin menu in wordpress back-end;
 1. View posts or pages page, change the order column value what you want and then click the save button behind the 'Order' text.
-1. Add "query_posts('orderby=menu_order&order=ASC');" code after "if ( have_posts() ) : " on the post or page loop page in your template file.
+1. Add "query_posts('orderby=menu_order&order=ASC');" after "if ( have_posts() ) : " in the loop code of your post or page template page.
 
 == Frequently Asked Questions ==
 
