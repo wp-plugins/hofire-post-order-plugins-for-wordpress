@@ -14,6 +14,8 @@ Hofire Post Order Plugin For WordPress is a simple plugin that enables administr
 
 It is very useful when you want to custom your posts or plages order on the posts or pages list page.
 
+= Plugin's Official Site =Hofire Post Order For Wordpress ([http://www.hofire.com](http://www.hofire.com))
+
 == Installation ==
 
     1. Download the hofire-post-order.zip file and unzip it to wp-content/plugins folder in your wordpress website;
@@ -21,9 +23,17 @@ It is very useful when you want to custom your posts or plages order on the post
     3. View posts or pages page, change the order column value what you want and then click the save button behind the 'Order' text.
     4. Add '<?php query_posts('orderby=menu_order&order=ASC'); ?>' code after '<?php if ( have_posts() ) : ?>' on the post or page loop page in your template file.
 
+== Frequently Asked Questions ==
+
+Do you have questions or issues with Contact Form 7? Use these support channels appropriately.
+
+1. [Docs](http://www.hofire.com/wordpress-plugins/hofire-post-order-plugins-wordpress/)
+
+[Support](http://www.hofire.com/contact-us/)
+
 == Screenshots ==
 
-1. '/tags/1.0/hofire-post-order-larg.gif'
+1. screenshot-1.png
 
 == Changelog ==
 
