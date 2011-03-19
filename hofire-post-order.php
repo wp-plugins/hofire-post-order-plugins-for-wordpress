@@ -22,7 +22,7 @@ add_action('admin_init', 'hofire_post_order_save');
 */
 if (!function_exists('hofire_post_order_columns')) {
 	function hofire_post_order_columns($defaults) {
-		$defaults['order'] = __('Order').'<input type="submit" id="save_order" value="save order" class="save_order" /> ';
+		$defaults['order'] = __('Order').'<input type="submit" id="save_order" value="" class="save_order" /> ';
 		return $defaults;
 	}
 }
